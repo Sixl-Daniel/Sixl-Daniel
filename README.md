@@ -1,4 +1,4 @@
-![github-profile-animation-sixl-daniel](https://user-images.githubusercontent.com/37161524/117346924-b1767000-aea8-11eb-863d-935f9d05e826.gif)
+![github-profile-animation-sixl-daniel](https://user-images.githubusercontent.com/37161524/117348129-239b8480-aeaa-11eb-84be-4b1267ea28a1.gif)
 
 ## Hi there 👋🏽
 
