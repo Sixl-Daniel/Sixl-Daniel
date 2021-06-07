@@ -4,6 +4,6 @@
 
 💬 I’m currently working on becoming a full stack developer.
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sixl-Daniel&theme=radical&show_icons=true&count_private=true))
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sixl-Daniel&theme=radical&show_icons=true&count_private=true)
 
 ![Daniel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sixl-Daniel&theme=radical)
