@@ -2,7 +2,7 @@
 
 ## Hi there 👋🏽
 
-💬 I’m currently working on becoming full.
+💬 I’m currently working on becoming full 🍷🍻🍺.
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sixl-Daniel&theme=radical&show_icons=true&count_private=true)
 
